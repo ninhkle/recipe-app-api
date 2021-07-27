@@ -1,8 +1,8 @@
 # recipe-app-api
 Recipe app api
 
-# Build
+### Build
 docker-compose build
 
-# Run
+### Run
 docker-compose up
